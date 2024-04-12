@@ -3,6 +3,9 @@ We have a designed a Healthcare Monitoring Device for Elders, which is aimed at 
 
 # Hardware components
 ESP32 
+
 AHT20+BMP280 - Temperature Humidity Air Pressure sensor
+
 MAX30102 -  Heart Rate Module
+
 MPU-6050 - 3_Axis Gyroscope + Accelerometer Module
