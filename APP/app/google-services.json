@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "499984203732",
+    "firebase_url": "https://iotnsbm-9c86b-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iotnsbm-9c86b",
+    "storage_bucket": "iotnsbm-9c86b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499984203732:android:47a2405a091869517f2041",
+        "android_client_info": {
+          "package_name": "com.example.iotnsbm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqgVtCevHhs308K9kMEej9kYu5-sTUmQQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
